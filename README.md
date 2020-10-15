@@ -1,3 +1,3 @@
 # Website
-make this website good
-add navbar 
+Make this website good and
+add a Navigation bar.
